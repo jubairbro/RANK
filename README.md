@@ -7,8 +7,8 @@ pip2 install requests
 pip2 install mechanize
 pip install requests 
 pip install mechanize
-rm -rf facebook-id
-git clone https://github.com/jubairbro/facebook-id >
+rm -rf RANK
+git clone https://github.com/jubairbro/RANK.git
 cd RANK
 python RANK.py
 
