@@ -1,5 +1,6 @@
 ## Rendom facebook id hack New
 ```
+pkg update && pkg upgrade
 pkg install python
 pkg install git
 pip install bs4
